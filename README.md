@@ -15,18 +15,22 @@ Performed 'Exploratory Data Analysis' on dataset 'Sample Superstore' and I got s
 
 
 
-Dataset: https://bit.ly/3i4rbWI
+[Dataset Link](https://bit.ly/3i4rbWI)
+|
 
 
 
-Tableau : https://public.tableau.com/app/profile/kartik.parlikar/viz/superstoresales_16861284301730/profitboard
+[Tableau Link](https://public.tableau.com/app/profile/kartik.parlikar/viz/superstoresales_16861284301730/profitboard)
+|
 
 
 
-Video Link https://drive.google.com/file/d/1ONQtDBGFIL1Ty6SRpUAGjpcHmNjOZVpH/view?usp=sharing
+[Video Link](https://drive.google.com/file/d/1ONQtDBGFIL1Ty6SRpUAGjpcHmNjOZVpH/view?usp=sharing)
+|
 
 
-PDF :  https://github.com/kartikparlikar/Spark-Foundation/blob/main/super%20store%20Exploratory%20Data%20Analysis%20Final%20report.pdf
+[PDF Link](https://github.com/kartikparlikar/Spark-Foundation/blob/main/super%20store%20Exploratory%20Data%20Analysis%20Final%20report.pdf)
+|
 
 
 

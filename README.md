@@ -26,5 +26,8 @@ Tableau : https://public.tableau.com/app/profile/kartik.parlikar/viz/superstores
 Video Link https://drive.google.com/file/d/1ONQtDBGFIL1Ty6SRpUAGjpcHmNjOZVpH/view?usp=sharing
 
 
+PDF :  https://github.com/kartikparlikar/Spark-Foundation/blob/main/super%20store%20Exploratory%20Data%20Analysis%20Final%20report.pdf
+
+
 
 

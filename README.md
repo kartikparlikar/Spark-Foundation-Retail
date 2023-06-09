@@ -9,7 +9,7 @@ What all business problems you can derive by exploring the data?
 
 ## Tool : TABLEAU PUBLIC
 
-Performed 'Exploratory Data Analysis' on dataset 'Sample Superstore' and I got some evaluation abilities which will enable us to narrow down on some weak area as per our task
+Performed 'Exploratory Data Analysis' on dataset 'Sample Superstore' and I found some evaluation capabilities which tells us about our weak area
 
 
 

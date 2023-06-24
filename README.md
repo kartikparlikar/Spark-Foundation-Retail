@@ -29,7 +29,7 @@ Performed 'Exploratory Data Analysis' on dataset 'Sample Superstore' and I found
 |
 
 
-[PDF Link](https://github.com/kartikparlikar/Spark-Foundation/blob/main/super%20store%20Exploratory%20Data%20Analysis%20Final%20report.pdf)
+[PDF Report Link](https://github.com/kartikparlikar/Spark-Foundation/blob/main/super%20store%20Exploratory%20Data%20Analysis%20Final%20report.pdf)
 |
 
 
